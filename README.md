@@ -1,1 +1,1 @@
-# rezerpay
+# razerpay
